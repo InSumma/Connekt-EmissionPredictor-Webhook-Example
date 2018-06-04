@@ -1,4 +1,4 @@
-# Connekt-EmissionPredictor-Webhook-Example
+# Thuiswinkel.org & Connekt Emission Predictor webhook wxample
 The emission predictor offers a webhook. Users can subscribe to this webhook and receive a post message when the models behind the 
 2leg or 3leg calculations are changed,
 
